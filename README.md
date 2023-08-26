@@ -1,6 +1,6 @@
 # todo
 
-A new Flutter project.
+Todo list app developed by flutter framework.
 
 ## Getting Started
 
